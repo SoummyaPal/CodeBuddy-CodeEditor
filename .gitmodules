@@ -1,0 +1,3 @@
+[submodule "CodeBuddy-CodeEditor"]
+	path = CodeBuddy-CodeEditor
+	url = https://github.com/SoummyaPal/CodeBuddy-CodeEditor
